@@ -22,4 +22,5 @@ if(count<hiscore or hiscore == None):
         f.write(str(count))
 
 
+
         
