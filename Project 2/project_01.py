@@ -20,7 +20,3 @@ if(count<hiscore or hiscore == None):
     print("You have just broke the high score")
     with open("hiscore.txt", 'w') as f:
         f.write(str(count))
-
-
-
-        
